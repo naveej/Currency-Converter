@@ -3,4 +3,4 @@
 # Currency-Converter
 23-06-2021
 
-Just a simple website that checks the exchange rate of any currency comparing to others in the world.. 
+Just a simple website that checks the exchange rate of any currency comparing to others in the world.
